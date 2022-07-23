@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tv source-data-url="https://tvprofil.net/api/xmltv/" source-info-name="TvProfil API v2.0 - XMLTV" source-info-url="https://tvprofil.com">
+<error>
+<message>Weekly request limit exceeded 14134 of 14000</message>
+<code>300</code>
+<description />
+</error>
+</tv>
